@@ -1,2 +1,2 @@
 # SupremeBot
-Just making a surpreme bot
+Just making a supreme bot
